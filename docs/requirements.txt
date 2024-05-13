@@ -1,0 +1,4 @@
+pip install django==5.0.1
+pip install fuzzywuzzy
+pip install python-Levenshtein
+pip install django_session_timeout
